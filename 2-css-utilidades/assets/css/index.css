@@ -1,0 +1,19 @@
+div {
+    background-color: #11BAE3;
+    height: 200px;
+    width: 300px;
+    border: 10px solid #000000;    
+}
+h3{
+    /*padding: 50px;*/
+    text-align: center;
+}
+/*Estilo relleno para aplicar internamente*/
+#div1{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+/*Estilo margin para aplicar del borde hacia afuera*/
+.div2{
+    margin-top: 100px;
+}

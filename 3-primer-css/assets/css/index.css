@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Ink&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+    color: aqua;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+h3{
+    color: blue !important;
+}
+.h3{
+    font-family: 'Reem Kufi Ink', sans-serif;
+    color: blueviolet;
+}
+.contenedor{
+    width: 50%;
+    float: left;
+    text-align: center;
+    height: 50vh;
+    background-color: #23ce56;
+    margin-top: 50px;
+}
+.secciones{
+    width: 33.33%;
+    background-color: aqua;
+    height: 200px;
+    float: left;
+}
+#encabezado3{
+    color: #23ce56
+}
+#contenedor{
+    width: 50%;
+    float: left;
+    text-align: center;
+    height: 50vh;
+    background-color: #0e1c9e;
+    margin-top: 50px;
+}
